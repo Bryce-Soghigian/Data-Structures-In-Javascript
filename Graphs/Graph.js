@@ -55,3 +55,18 @@ g.addEdge('E', 'C');
 g.addEdge('C', 'F'); 
 console.log(g,"graph")
 
+
+let myGraph = new Graph(4)
+var verticesSocialArray = ["brycesoghigian", "example1", "example2", "example3"]
+
+for(let i = 0;i<verticesSocialArray.length;i++){
+    myGraph.addVertex(verticesSocialArray[i])
+}
+myGraph.addEdge("example2","brycesoghigian")
+myGraph.addEdge("brycesoghigian", "example1")
+myGraph.addEdge("brycesoghigian","example3");
+myGraph.addEdge("brycesoghigian","example2");
+myGraph.addEdge("example3","example2")
+
+console.log(myGraph,"Social Graph")
+
