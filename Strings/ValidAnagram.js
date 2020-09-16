@@ -20,5 +20,5 @@ var isAnagram = function (s, t) {
 };
 
 
-console.log(isAnagram("car","arc"))
-console.log(isAnagram("car","ardc"))
+console.log(isAnagram("car","arc"))//True
+console.log(isAnagram("car","ardc"))//False
