@@ -19,3 +19,4 @@ var generateTheString = function(n) {
       return aString.repeat(n)  
     }
 };
+
