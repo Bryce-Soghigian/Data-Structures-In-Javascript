@@ -9,6 +9,9 @@ var kWeakestRows = function(mat, k) {
     1. Go through and rank the rows from weakest to strongest
     2. Create a new array with the indexes of the weakest to strongest
     while loop?
+    [[0,1,1],[0,0,0],[1,1,1]]
+    [1]=== weakest
+    [2] === strongest
     3. Trim the array to only show the first k elements in the array
     
     **/
@@ -34,3 +37,6 @@ var kWeakestRows = function(mat, k) {
     console.log(cleanedArray,"RETURNED DATA")
     return cleanedArray
 };
+
+kWeakestRows([[0,0,0],[0,1,1],[0,0,1]],3)
+//n^2+k is complexity
