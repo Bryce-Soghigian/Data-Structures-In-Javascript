@@ -34,6 +34,14 @@ class LinkedList {
         this.size++
     }
     }
+    deleteNode(position){
+        if(position === undefined){
+        
+            return []
+        }
+        //Find position of node that needs to be deleted
+        for(let i = 0;i)
+    }
     //Insert at index
     insertAt(data,index){
         if(index > this.size && index > 0){
