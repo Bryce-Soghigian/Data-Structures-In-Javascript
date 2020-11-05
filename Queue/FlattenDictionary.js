@@ -2,7 +2,6 @@ function flattenDictionary(dict) {
     // your code goes here
     // type === object
     // else add val to new Dictionary
-    let traverse = false;
     let newDict = {}
     let queue = []
     
