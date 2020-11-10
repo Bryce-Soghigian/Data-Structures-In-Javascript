@@ -44,3 +44,6 @@ function stackAccessNthTopNode(stack,n){
 }
 
 console.log(newStack,1)
+
+
+

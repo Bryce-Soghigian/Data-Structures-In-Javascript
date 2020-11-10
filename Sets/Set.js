@@ -14,3 +14,7 @@ console.log(ourSet)
 
 ourSet.add(123213).add(24323)
 console.log(ourSet)
+let iterator
+for(let i = 0;i<ourSet.values().length;i++){
+    console.log(ourSet[i])
+}
