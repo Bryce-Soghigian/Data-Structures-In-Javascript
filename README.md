@@ -36,5 +36,14 @@
 - Intuitive Takeaways::to delete nodes in a linked list just skip nodes current.next = current.next.next
 - Notes:: This solution only deletes adjacent duplicates. Thats all the problem asks for but if you wanted to delete all duplicates you could use a set to keep track of all the nodes you have seen and see that info in constant time with less space complextiy than if you used an object/hashtable
 
+## Leetcode Problem 82
+- Difficulty:: Medium
+- Duration:: 40 minutes
+- Interview Question Type:: Linked list two pointer solution
+- What did I do well?::Understood the qustion 
+- What do I need to improve?:: Learn more about heads and tails of lists
+- Intuitive Takeaways:: edge cases are always involved in linked list problems
+- Notes:: Dummy lists are usefulx
+
 
 
