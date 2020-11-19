@@ -43,7 +43,63 @@
 - What did I do well?::Understood the qustion 
 - What do I need to improve?:: Learn more about heads and tails of lists
 - Intuitive Takeaways:: edge cases are always involved in linked list problems
-- Notes:: Dummy lists are usefulx
+- Notes:: Dummy lists are useful
+
+# 11/16/2020
+
+## AlgoExpert BubbleSort
+- Difficulty::Easy
+- Duration::5 minutes
+- Interview Question Type::Sorting
+- What did I do well?:: Understood algorithm
+- What do I need to improve?:: Nowhere
+- Intuitive Takeaways::Bubblesort is slow but a good basic algo if you want to build a very intutive algo and preformance isn't important
+- Notes::
+
+
+## AlgoExpert InsertionSort
+- Difficulty::Easy
+- Duration::20 Minutes
+- Interview Question Type::Sorting
+- What did I do well?::Learning the algorithm
+- What do I need to improve?::Turning explaination into code
+- Intuitive Takeaways::Insertion Sort is good on nearly sorted data
+- Notes::
+
+## AlgoExpert Selection Sort
+- Difficulty::Easy
+- Duration::25 minutes
+- Interview Question Type::Sorting 
+- What did I do well?::Implementing Algorithm
+- What do I need to improve?::Grasping an algorithm quickly
+- Intuitive Takeaways:: nada
+- Notes::
+
+## HeapSort
+- Difficulty::Hard
+- Duration::45 minutes
+- Interview Question Type::Heap/ sorting
+- What did I do well?::Applying a max heap
+- What do I need to improve?::Better understanding of heaps themselves
+- Intuitive Takeaways::
+- Notes::
+
+
+
+# 11/18/2020
+
+## Algoexpert FindClosestValueInBST
+- Difficulty::Easy
+- Duration::25 Minutes
+- Interview Question Type::PostOrder DFS in binary tree
+- What did I do well?::tree traversal
+- What do I need to improve?::The algorithm part of find closest value
+- Intuitive Takeaways::
+- Notes::
+
+
+
+
 
 
 
