@@ -114,3 +114,11 @@
 - What do I need to improve?:: understanding time complexity of recursion
 - Intuitive Takeaways::each subtree is stored in the tree.left and tree.right . So if you want to modify tree left or swap values you can just change the assignment in the tree
 - Notes:: Popular Interview question nailed
+
+## Leetcode Problem 1602
+- Difficulty:: Medium
+- Duration::60 minutes
+- Interview Question Type::BFS Tree traversal problem
+- What did I do well?::Identified i needed to use bfs
+- What do I need to improve?:: my implementation of bfs
+- Intuitive Takeaways:: Make sure to chck the type of what they want you to return in this case they wanted a tree node but in my first solution i returned jsut the value as a number
