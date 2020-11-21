@@ -103,3 +103,14 @@
 
 
 
+# 11/20/2020
+
+## Leetcode Problem 226
+- Question Title:: Invert Binary Search Tree
+- Difficulty:: Easy
+- Duration::10 minutes
+- Interview Question Type:: BST
+- What did I do well?:: identifying what the problem is and how exactly i could solve it
+- What do I need to improve?:: understanding time complexity of recursion
+- Intuitive Takeaways::each subtree is stored in the tree.left and tree.right . So if you want to modify tree left or swap values you can just change the assignment in the tree
+- Notes:: Popular Interview question nailed
