@@ -12,7 +12,48 @@ const LinkedList = class {
         this.head = null
         this.size = 0
     }
+        //Remove duplicates from current list
+        removeDuplicates(){
+            const set = new Set();
+            let current = this.head;
 
+            console.log(current,"current")
+            while(current){
+                if(current.next === null){
+                   return
+                }
+                if(set.has(current.next.value)){
+                    current.next = current.next.next
+                }else{
+                    set.add(current.next.value)
+                }
+                current = current.next
+            }
+        }
+
+    returnKToLast(k){
+        let length = 0;
+        let current = this.head;
+        //First loop we determine the current length of the list
+        while(current){
+            length++
+            current = current.next
+        }
+        console.log(length)
+        let target = length-k;
+        //Reset our pointer for another traversal
+        current = this.head;
+        let icc = 0
+        while(current){
+            icc++
+            if(icc === target){
+                return current
+            }
+            current = current.next
+        }
+        return "NODE NOT FOUND"
+
+    }
     deleteNodeOfGivenValue(valueOfNodeToBeDeleted){
 
         if(valueOfNodeToBeDeleted === this.head.value){
@@ -98,4 +139,5 @@ SLL.addNode(5)
 SLL.addNode(2)
 SLL.addNode(13)
 SLL.addNode(18)
+SLL.returnKToLast()
 SLL.traverse()
