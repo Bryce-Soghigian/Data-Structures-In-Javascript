@@ -10,7 +10,18 @@ class LinkedList {
         this.head = null;
         this.size = 0;
     }
-
+    //Remove duplicates from current list
+    removeDuplicates(){
+        const set = new Set();
+        let current = this.head;
+        while(current){
+            set.add(current.data)
+            if(set.has(current.next.data)){
+                current.next = current.next.next
+            }
+            current = current.next
+        }
+    }
     //Insert first node
     insertFirst(data){
         this.head = new Node(data, this.head)
@@ -65,13 +76,13 @@ class LinkedList {
         console.log(`The Length of this linked list is ${this.size}`)
     }
     //PrintNodes
-    // printNodes(){
-    //     let current = this.head;
-    //     while(current){
-    //         console.log(`NODE:${}`)
-    //         current = current.pointer;
-    //     }
-    // }
+    printNodes(){
+        let current = this.head;
+        while(current){
+            console.log(`NODE:${}`)
+            current = current.pointer;
+        }
+    }
     //Print list data
     printNodesData(){
         let current = this.head;
@@ -89,7 +100,19 @@ ll.insertFirst(120);
 ll.insertFirst(0);
 ll.insertFirst(10);
 ll.insertFirst(1000);
+ll.insertFirst(1000);
+ll.insertFirst(1000);
+ll.insertFirst(1000);
+ll.insertFirst(1000);
+ll.insertFirst(1000);
+ll.insertFirst(1000);
+ll.insertFirst(1000);
+ll.insertFirst(1000);
+ll.insertFirst(1000);
+ll.insertFirst(1000);
+ll.insertFirst(1000);
+ll.insertFirst(1000);
 
-ll.printNodesData()
-ll.printListSize()
+
+
 ll.printNodes()

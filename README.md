@@ -122,3 +122,55 @@
 - What did I do well?::Identified i needed to use bfs
 - What do I need to improve?:: my implementation of bfs
 - Intuitive Takeaways:: Make sure to chck the type of what they want you to return in this case they wanted a tree node but in my first solution i returned jsut the value as a number
+
+
+
+
+# 11/24/2020
+
+## Leetcode Problem 219
+- Difficulty::Easy
+- Duration::23 minutes
+- Interview Question Type:: Array/ Duplicate
+- What did I do well?::Identifying a way to track duplicates
+- What do I need to improve?:: Finding a more efficent way to check ajecent elements
+- Intuitive Takeaways::Always think about if you are going out of bounds when going through an array
+
+
+
+## Leetcode Sort Array
+- Difficulty:: Medium
+- Duration:: 1 minute
+- Interview Question Type:: Sorting
+- What did I do well?:: Knew algo
+- What do I need to improve?:: no need
+- Intuitive Takeaways::
+- Notes::
+
+
+# 11/26/2020
+
+## leetcode problem 501
+- Difficulty::Easy
+- Duration::20 minutes
+- Interview Question Type::BST
+- What did I do well?:: identified a way to count how frequent the nodes were
+- What do I need to improve?::Doing stuff inplace
+- Intuitive Takeaways::BST problems are easy so long as you can track nodes and their values in the tree in an effective way
+- Notes::
+
+
+## Leetcode problem 94
+- Difficulty::Medium
+- Duration::5 minutes
+- Interview Question Type:: Inorder Traversal
+- What did I do well?:: Implement algo
+
+
+
+
+## Leetcode problem 114
+- Difficulty::Medium
+- Duration::5 minutes
+- Interview Question Type:: preorderTraversal
+- What did I do well?:: Implement algo
