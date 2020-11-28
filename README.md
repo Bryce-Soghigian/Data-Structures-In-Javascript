@@ -2,14 +2,6 @@
 
 # Date I worked on problems
 
-## Problem Number
-- Difficulty::
-- Duration::
-- Interview Question Type::
-- What did I do well?::
-- What do I need to improve?::
-- Intuitive Takeaways::
-- Notes::
 
 
 
@@ -174,3 +166,23 @@
 - Duration::5 minutes
 - Interview Question Type:: preorderTraversal
 - What did I do well?:: Implement algo
+
+
+
+# 11/27/2020
+
+## Leetcode problem 115
+- Difficulty::Medium
+- Duration::5 minutes
+- Interview Question Type:: postOrderTraversal
+- What did I do well?:: Implement algo
+
+
+## 230. Kth Smallest Element in a BST
+- Difficulty::Medium
+- Duration::25 minutes
+- Interview Question Type:: BST
+- What did I do well?:: Developed an algorithm quickly
+- What do I need to improve?:: THere is definitely a way to do this by just traversing the tree and accessing the kth to last left node via a bfs that would remove the need for sorting from my algorithm
+- Intuitive Takeaways:: I feel i understand javascript .sort() at a much better level after this problem
+- Notes::
