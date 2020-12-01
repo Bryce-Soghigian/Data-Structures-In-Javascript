@@ -206,3 +206,18 @@
 - Interview Question Type::Math
 - What did I do well?:: Found a way to relate the points with the distance and understood javascripts sort function
 - What do I need to improve?::Learn more math formulas bc knowing the distance formula would have brought the solution from 25 minutes to 15
+
+## 692. Top K Frequent Words
+- Difficulty:: Medium
+- Duration::40
+- Interview Question Type::Sorting || Heaps 
+- What did I do well?:: counting the items
+- What do I need to improve?::Learn more about lexographical sorting and good ways to do it
+
+## 215. Kth Largest Element in an Array
+
+- Difficulty:: Medium
+- Duration::13m15s43
+- Interview Question Type::sorting  || heap
+- What did I do well?:: counting the items
+- What do I need to improve?::Learn heap and quicksort solution
