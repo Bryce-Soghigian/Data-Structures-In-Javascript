@@ -230,3 +230,11 @@
 - Interview Question Type::Tree/Recursion
 - What did I do well?:: Thinking of a way to track depth
 - What do I need to improve?::General understanding of the traversal at a very fundemental level
+
+
+# 382. Linked List Random Node
+- Difficulty:: Medium
+- Duration::Forgot to time
+- Interview Question Type::Linked List
+- What did I do well?:: Idenfitying an algorithm
+- What do I need to improve?::Took me a while to understand a question also should research Math.random() more
