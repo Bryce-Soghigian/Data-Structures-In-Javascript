@@ -256,4 +256,26 @@
 - What do I need to improve?::Write a more effiecnent algo
 
 
+# 938. Range Sum of BST
+- Difficulty::Easy
+- Duration::3m19s27
+- Interview Question Type:: Tree/Math
+- What did I do well?::Everything
+- What do I need to improve?::Keep in mind explaining time complexity as i go through the problems
 
+
+
+# 199. Binary Tree Right Side View
+- Difficulty::Medium
+- Duration:: 15m21s32
+- Interview Question Type:: TREES
+- What did I do well?:: I used a preorder traversal and took note of the nodes as we traverse to the right
+- What do I need to improve?:: Make sure i understand the question before jumping into coding because i didn't realize that you might be able to see a left node for this problem so my original solution didn't include a traverseRight(node.left, level + 1)
+- Intuitive Takeaways:: Tree problems have a specific pattern of using either dft of bft to traverse the tree. Dft uses less memory in most cases due to not needing a queue stack or sentiniel
+
+# 1492. The kth Factor of n
+- Difficulty:: Medium 
+- Duration::17m46s97
+- Interview Question Type:: Kth element
+- What did I do well?:: Built out list of the factors and returned the right one
+- What do I need to improve?:: edge cases if a kth item is out of range or doesn't exist
