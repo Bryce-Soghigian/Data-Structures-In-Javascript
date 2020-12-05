@@ -287,3 +287,16 @@
 - Interview Question Type::Kth ELement/ Heap
 - What did I do well?:: Thought of good algortihm
 - What do I need to improve?::Understanding my inputs the problem gives me
+
+
+# 12-05-2020
+# 3. Longest Substring Without Repeating Characters
+- Difficulty::Medium
+- Duration::12m31s32
+- Interview Question Type::Brute force/ Sliding Window
+- What did I do well?:: I thought of a naive solution
+- What do I need to improve?::Learn sliding window
+
+
+
+
