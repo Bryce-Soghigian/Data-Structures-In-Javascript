@@ -279,3 +279,11 @@
 - Interview Question Type:: Kth element
 - What did I do well?:: Built out list of the factors and returned the right one
 - What do I need to improve?:: edge cases if a kth item is out of range or doesn't exist
+
+# 12-04-2020
+# 378. Kth Smallest Element in a Sorted Matrix
+- Difficulty::Medium
+- Duration::15m52s41
+- Interview Question Type::Kth ELement/ Heap
+- What did I do well?:: Thought of good algortihm
+- What do I need to improve?::Understanding my inputs the problem gives me
