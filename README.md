@@ -5,7 +5,7 @@
 - What did I do well?:: 
 - What do I need to improve?::
 - Intuitive Takeaways::
-- Notes:: 
+- What did I learn::
 # Date I worked on problems
 
 
@@ -256,4 +256,51 @@
 - What do I need to improve?::Write a more effiecnent algo
 
 
+# 938. Range Sum of BST
+- Difficulty::Easy
+- Duration::3m19s27
+- Interview Question Type:: Tree/Math
+- What did I do well?::Everything
+- What do I need to improve?::Keep in mind explaining time complexity as i go through the problems
 
+
+
+# 199. Binary Tree Right Side View
+- Difficulty::Medium
+- Duration:: 15m21s32
+- Interview Question Type:: TREES
+- What did I do well?:: I used a preorder traversal and took note of the nodes as we traverse to the right
+- What do I need to improve?:: Make sure i understand the question before jumping into coding because i didn't realize that you might be able to see a left node for this problem so my original solution didn't include a traverseRight(node.left, level + 1)
+- Intuitive Takeaways:: Tree problems have a specific pattern of using either dft of bft to traverse the tree. Dft uses less memory in most cases due to not needing a queue stack or sentiniel
+
+# 1492. The kth Factor of n
+- Difficulty:: Medium 
+- Duration::17m46s97
+- Interview Question Type:: Kth element
+- What did I do well?:: Built out list of the factors and returned the right one
+- What do I need to improve?:: edge cases if a kth item is out of range or doesn't exist
+
+# 12-04-2020
+# 378. Kth Smallest Element in a Sorted Matrix
+- Difficulty::Medium
+- Duration::15m52s41
+- Interview Question Type::Kth ELement/ Heap
+- What did I do well?:: Thought of good algortihm
+- What do I need to improve?::Understanding my inputs the problem gives me
+
+
+# 12-05-2020
+# 3. Longest Substring Without Repeating Characters
+- Difficulty::Medium
+- Duration::12m31s32
+- Interview Question Type::Brute force/ Sliding Window
+- What did I do well?:: I thought of a naive solution
+- What do I need to improve?::Learn sliding window
+
+# 868. Binary Gap
+- Difficulty:: Easy
+- Interview Question Type::Binary Number
+- What did I do well?:: COnvert num
+- What do I need to improve?:: Need to go over solutions on leetcode mine was o^2 while theres was logn
+- Intuitive Takeaways::
+- What did I learn:: I learned about storing indexes and also parseInt() && toString()
