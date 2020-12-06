@@ -304,3 +304,20 @@
 - What do I need to improve?:: Need to go over solutions on leetcode mine was o^2 while theres was logn
 - Intuitive Takeaways::
 - What did I learn:: I learned about storing indexes and also parseInt() && toString()
+
+# 12-06-2020 (Worked on learning BFS)
+
+# 559. Maximum Depth of N-ary Tree
+- Difficulty:: Easy
+- Interview Question Type::BFT
+- What did I do well?:: Idenified the algo
+- What do I need to improve?:: Need to work with n-ary trees more 
+- Intuitive Takeaways::Queues provide a goood assist when you need to have an order to a travesal like a level by level traversal
+- What did I learn::N-ary Trees
+# 117. Populating Next Right Pointers in Each Node II
+- Difficulty::Medium
+- Interview Question Type::BFT
+- What did I do well?:: Idenified the algo
+- What do I need to improve?:: Need to do more bfs problems
+der to a travesal like a level by level traversal
+- What did I learn:: About queues and bfs
