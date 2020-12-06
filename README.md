@@ -5,7 +5,7 @@
 - What did I do well?:: 
 - What do I need to improve?::
 - Intuitive Takeaways::
-- Notes:: 
+- What did I learn::
 # Date I worked on problems
 
 
@@ -297,6 +297,10 @@
 - What did I do well?:: I thought of a naive solution
 - What do I need to improve?::Learn sliding window
 
-
-
-
+# 868. Binary Gap
+- Difficulty:: Easy
+- Interview Question Type::Binary Number
+- What did I do well?:: COnvert num
+- What do I need to improve?:: Need to go over solutions on leetcode mine was o^2 while theres was logn
+- Intuitive Takeaways::
+- What did I learn:: I learned about storing indexes and also parseInt() && toString()
