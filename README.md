@@ -321,3 +321,18 @@
 - What do I need to improve?:: Need to do more bfs problems
 der to a travesal like a level by level traversal
 - What did I learn:: About queues and bfs
+
+# 101. Symmetric Tree
+- Difficulty::Easy
+- Interview Question Type:: Binary Tree BFS with queues
+- What did I do well?:: Thought of proper traversal method
+- What do I need to improve?:: Need to focus on solution better
+- What did I learn:: You can always run a comparison on a second tree
+
+# 102. Binary Tree Level Order Traversal
+- Difficulty::Medium
+- Duration::51m
+- Interview Question Type::TREE
+- What did I do well?::Improvised and stayed calm
+- What do I need to improve?:: I wrote this code originally with a bfs and that probably would have worked better but i didn't understand the algo enough to make it save the values level by level so I need to study bfs more
+- What did I learn:: Useful application for depth of a bst and using hashmaps

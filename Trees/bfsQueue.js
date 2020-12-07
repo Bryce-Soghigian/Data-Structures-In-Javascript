@@ -1,20 +1,18 @@
-const printLevelOrder = (root) => {
-if(root === null){
-    return 
-}
-//Create an empty queue
-let queue = [];
-queue.shift(root)
-
+const bfs = (root) => {
+    let queue = []
+//enqueue our values
+queue.unshift(root)
+let values = []
 while(queue.length > 0){
-    console.log(queue[0])
-    let node = queue.pop()
+    console.log(queue)
+    let currentTreeNode = queue.pop();
+         values.push(currentTreeNode.val)
 
-    if(node.left !== null){
-        queue.shift(node.left)
+    if(currentTreeNode.left){
+        queue.unshift(currentTreeNode.left)
     }
-    if(node.right !== null){
-        queue.append(node.right)
+    if(currentTreeNode.right){
+        queue.unshift(currentTreeNode.right)
     }
 }
 }
