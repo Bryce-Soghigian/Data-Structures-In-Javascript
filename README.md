@@ -352,3 +352,9 @@ der to a travesal like a level by level traversal
 - What do I need to improve?::I need to work on modifying things inplace without using extra space. I came up with a solution that worked but this algo asked me to do it in place and that ruined my whole approach.
 - Intuitive Takeaways::If you need to modify something inplace you can always remove a bunch of values and paste them back in
 - What did I learn:: about inplace algorithms
+
+# 1010. Pairs of Songs With Total Durations Divisible by 60
+- Difficulty::Medium
+- Duration::7minutes
+- Interview Question Type::Permuation
+- What did I do well?:: I had already seen a question that looks quite familar to that one so I knew how to solve it

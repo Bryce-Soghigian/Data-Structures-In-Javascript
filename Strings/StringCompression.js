@@ -3,18 +3,7 @@
  * @return {number}
  */
 var compress = function(chars) {
-    /**
-    GO through the array and check ahead for consecutive characters
-    write a for loop that skips
-    compressArray = []
-    while()
-    if a[i] == a[i+k]{
-    
-    }
-    
-    **/
-    let resultArray = []
-    let copy = chars.slice()
+
     for(let i = 0;i<chars.length;i++){
         /**
         Go through and count how many adjecent matches there are
