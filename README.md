@@ -336,3 +336,10 @@ der to a travesal like a level by level traversal
 - What did I do well?::Improvised and stayed calm
 - What do I need to improve?:: I wrote this code originally with a bfs and that probably would have worked better but i didn't understand the algo enough to make it save the values level by level so I need to study bfs more
 - What did I learn:: Useful application for depth of a bst and using hashmaps
+
+# 12-07-2020
+
+# 387. First Unique Character in a String
+- Difficulty::Easy
+- Duration::3m26s5
+- Interview Question Type::Frequency
