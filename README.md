@@ -358,3 +358,10 @@ der to a travesal like a level by level traversal
 - Duration::7minutes
 - Interview Question Type::Permuation
 - What did I do well?:: I had already seen a question that looks quite familar to that one so I knew how to solve it
+
+# 12-08-2020
+
+# 1133. Largest Unique Number
+- Difficulty::Easy
+- Duration::4m49s90
+- Interview Question Type::Unique 
