@@ -343,3 +343,12 @@ der to a travesal like a level by level traversal
 - Difficulty::Easy
 - Duration::3m26s5
 - Interview Question Type::Frequency
+
+# 443. String Compression
+- Difficulty::Medium
+- Duration::1hr+
+- Interview Question Type::Array/String
+- What did I do well?:: I thought up a good way to do it
+- What do I need to improve?::I need to work on modifying things inplace without using extra space. I came up with a solution that worked but this algo asked me to do it in place and that ruined my whole approach.
+- Intuitive Takeaways::If you need to modify something inplace you can always remove a bunch of values and paste them back in
+- What did I learn:: about inplace algorithms
