@@ -336,3 +336,103 @@ der to a travesal like a level by level traversal
 - What did I do well?::Improvised and stayed calm
 - What do I need to improve?:: I wrote this code originally with a bfs and that probably would have worked better but i didn't understand the algo enough to make it save the values level by level so I need to study bfs more
 - What did I learn:: Useful application for depth of a bst and using hashmaps
+
+# 12-07-2020
+
+# 387. First Unique Character in a String
+- Difficulty::Easy
+- Duration::3m26s5
+- Interview Question Type::Frequency
+
+# 443. String Compression
+- Difficulty::Medium
+- Duration::1hr+
+- Interview Question Type::Array/String
+- What did I do well?:: I thought up a good way to do it
+- What do I need to improve?::I need to work on modifying things inplace without using extra space. I came up with a solution that worked but this algo asked me to do it in place and that ruined my whole approach.
+- Intuitive Takeaways::If you need to modify something inplace you can always remove a bunch of values and paste them back in
+- What did I learn:: about inplace algorithms
+
+# 1010. Pairs of Songs With Total Durations Divisible by 60
+- Difficulty::Medium
+- Duration::7minutes
+- Interview Question Type::Permuation
+- What did I do well?:: I had already seen a question that looks quite familar to that one so I knew how to solve it
+
+# 12-08-2020
+
+# 1133. Largest Unique Number
+- Difficulty::Easy
+- Duration::4m49s90
+- Interview Question Type::Unique 
+
+# 739. Daily Temperatures
+- Difficulty::Medium
+- Duration::6m26s04
+- Interview Question Type:: Arrays
+- What did I do well?:: This is a question a guy who interviewed at bloomberg had an hour to solve. I did it in under 7 minutes :)
+- What do I need to improve?:: You could use a stack to solve this in O(n) and I didnt see that until after i solved it and looked at solutions
+
+
+# 451. Sort Characters By Frequency
+- Difficulty::Medium
+- Duration::6m44s60
+- Interview Question Type:: Frequency/hashtable
+- What did I do well?:: Identified algo and recognized a tool to help me solve it quickly
+- What do I need to improve?::think of edgecases
+- Intuitive Takeaways::
+- What did I learn::
+
+# Array Index & Element Equality(PRAMP)
+-Difficulty::Easy
+-Duration:: O(n) in 3minutes and logn time in 25
+- Interview Question Type:: Binary Search
+- What did I do well?::Implementing a first pass algo in o(n)
+- What do I need to improve?::think of edgecases
+- Intuitive Takeaways::
+- What did I learn::
+
+
+
+# 12-09-2020
+# 53. Maximum Subarray
+- Difficulty:: Easy
+- Duration:: 5m13s32
+- Interview Question Type:: Kanades Algo
+- What did I learn::Learned how to implement Kanades algo and how diverse dynamic programming can be
+
+
+# 697. Degree of an Array
+- Difficulty::Easy 
+- Duration::17minutes
+- Interview Question Type::Array
+- What did I do well?:: Came up with way to detect frequency
+- What do I need to improve?:: Time complexity this runs in O(modes*n)
+
+
+
+# 1352. Product of the Last K Numbers
+- Difficulty::Medium
+- Duration::5m13s42
+- Interview Question Type::Class
+- What did I do well?:: This question is very similar to most other find x of the kth last number. I just needed to write it in an object oriented style.
+- What do I need to improve?::Maybe get more familiar with writing in an OOP style That was the hard part of the question for me
+
+
+# 460. LFU Cache
+- Difficulty::Hard
+- Duration::1h16m16s43
+- Interview Question Type::Pain
+- What did I do well?::Broke it down into smaller chunks
+- What do I need to improve?::This question was just hard and involved a lot of tinkering. I think understanding the scope of what is being asked would be helpful
+- What did i learn?:: LOTS i learned some class stuff i learned about writing my own data stucture tons
+
+
+# 941. Valid Mountain Array
+- Difficulty::Easy
+- Duration::17m08s28
+- Interview Question Type::Arrays
+- What did I do well?:: I thought up an algorithm to solve the basic problem
+- What do I need to improve?::Think of edge cases
+- Intuitive Takeaways:: think about all your edgecases when solving a problem
+
