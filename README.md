@@ -446,3 +446,13 @@ der to a travesal like a level by level traversal
 - What do I need to improve?::
 - Intuitive Takeaways:: 
 - What did I learn::I learned about the two pointers algorithm. This seems to be useful lemme put that in my brain
+
+
+# 234. Palindrome Linked List
+- Difficulty::Easy
+- Duration::9m15s15
+- Interview Question Type:: Two pointers
+- What did I do well?:: 
+- What do I need to improve?::
+- Intuitive Takeaways:: 
+- What did I learn::I learned about the two pointers algorithm. This seems to be useful lemme put that in my brain
