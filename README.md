@@ -436,3 +436,13 @@ der to a travesal like a level by level traversal
 - What do I need to improve?::Think of edge cases
 - Intuitive Takeaways:: think about all your edgecases when solving a problem
 
+# 12-10-2020
+
+# 80. Remove Duplicates from Sorted Array II
+- Difficulty::Medium
+- Duration::20m52s93
+- Interview Question Type:: Two pointers
+- What did I do well?:: 
+- What do I need to improve?::
+- Intuitive Takeaways:: 
+- What did I learn::I learned about the two pointers algorithm. This seems to be useful lemme put that in my brain
