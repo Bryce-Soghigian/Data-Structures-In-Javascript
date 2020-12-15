@@ -436,3 +436,77 @@ der to a travesal like a level by level traversal
 - What do I need to improve?::Think of edge cases
 - Intuitive Takeaways:: think about all your edgecases when solving a problem
 
+# 12-10-2020
+
+# 80. Remove Duplicates from Sorted Array II
+- Difficulty::Medium
+- Duration::20m52s93
+- Interview Question Type:: Two pointers
+- What did I do well?:: 
+- What do I need to improve?::
+- Intuitive Takeaways:: 
+- What did I learn::I learned about the two pointers algorithm. This seems to be useful lemme put that in my brain
+
+
+# 234. Palindrome Linked List
+- Difficulty::Easy
+- Duration::9m15s15
+- Interview Question Type:: Two pointers
+- What did I do well?:: 
+- What do I need to improve?::
+- Intuitive Takeaways:: 
+- What did I learn::I learned about the two pointers algorithm. This seems to be useful lemme put that in my brain
+
+
+# Sliding Window Maximun
+- Difficulty::Hard
+- Duration::32m12m32
+- Interview Question Type:: Queue/Dynamic Programming
+- What did I do well?:: I came up with an O(n*k) solution but
+- What do I need to improve?:: Finding that o(n) solution
+- Intuitive Takeaways::
+- What did I learn::About queues and dynamic Programming
+
+
+
+# 12-12-2020
+# 929. Unique Email Addresses
+- Difficulty::Easy
+- Duration::7 Minutesish
+- Interview Question Type:: Set
+- What did I do well?:: Broke down the algorithm into different fields I was validating
+- What do I need to improve?:: Time Complexity analysis
+
+
+# 12-13-2020
+
+# 1189. Maximum Number of Balloons
+- Difficulty::Easy
+- Duration::7 Minutesish
+- Interview Question Type:: Hashmap
+
+
+# 12-14-2020
+
+#  1641. Count Sorted Vowel Strings
+- Difficulty::Medium
+- Duration::21 minutes
+- Interview Question Type::Dynamic Programming backtracking 
+- What did I do well?::Found an o(1) solution
+- What do I need to improve?:: Dynamic Programming
+
+
+#  Furthest From Building
+- Difficulty::Medium
+- Duration::21 minutes
+- Interview Question Type::Dynamic Programming backtracking 
+- What did I do well?::Found an o(1) solution
+- What do I need to improve?:: Dynamic Programming
+
+# 509. Fibonacci Number
+- Difficulty::Easy
+
+- Interview Question Type::Dynamic Programming
+- What did I do well?::Implementing the dynamic programming solution
+- What do I need to improve?:: Understanding of top down
+
