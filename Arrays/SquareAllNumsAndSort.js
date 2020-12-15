@@ -1,6 +1,5 @@
 /**
- * @param {number[]} A
- * @return {number[]}
+Solution on 09/22/2020
  */
 var sortedSquares = function(A) {
     /**
@@ -16,3 +15,15 @@ sorted = sorted.sort((a,b) => {
 })
     return sorted
 }; 
+/**
+ * Solution 12/15/2020
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+var sortedSquares = function(nums) {
+    for(let i = 0;i<nums.length;i++){
+        nums[i] = nums[i]*nums[i]
+    }
+    
+    return nums.sort((a,b) => a-b)
+};

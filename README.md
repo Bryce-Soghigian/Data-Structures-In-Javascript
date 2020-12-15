@@ -510,3 +510,21 @@ der to a travesal like a level by level traversal
 - What did I do well?::Implementing the dynamic programming solution
 - What do I need to improve?:: Understanding of top down
 
+# 12-15-2020
+# 70. Climbing Stairs
+- Difficulty::Easy
+- Interview Question Type::Dynamic Programming
+- What did I do well?:: Identified the different ways i could solve the problem
+- What do I need to improve?::My understanding of BottomUpBackward
+- Intuitive Takeaways:: If you have base cases on a problem where you do combitorics you can calculate the result iteratively with bottomUpForward
+- What did I learn::DP
+
+# 1137. N-th Tribonacci Number
+- Difficulty::Easy
+- Duration::7m13s13
+- Interview Question Type::Dynamic Programming
+- What did I do well?:: Wrote a solid bottomUp Solution
+- What do I need to improve?:: Did solid on this problem
+- Intuitive Takeaways:: bottomUp is good for a problem where you have some of the inital subproblem defined
+- What did I learn::
+
