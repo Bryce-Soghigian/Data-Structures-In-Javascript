@@ -530,6 +530,25 @@ der to a travesal like a level by level traversal
 
 
 # 12-16-2020
+# Validate BST
+- Difficulty::Medium
+- Duration::25m
+- Interview Question Type::BST
+
+# 12-17-2020
+# 146. LRU Cache
+- Difficulty::Medium
+- Duration::25m
+- Interview Question Type::Caching and Object Oriented Design
+- What did I do well?:: I thought of a way to store the values in the cache
+- What do I need to improve?:: Bring my put and cache operations from o(n) to o(1)
+- Intuitive Takeaways::Keeping items in a specific order can help me solve problems more efficently
+- What did I learn::
+
+# Algoexpert SumOfDepths
+-Difficulty::Easy
+- Duration:10 minutes
+- THis problem basically is you traverse every node in the the tree if you know its current depth you can just add that to the sum and return it
 ## Problem List for today
 - https://leetcode.com/problems/clone-graph/
 - https://leetcode.com/problems/all-paths-from-source-to-target/
