@@ -1,7 +1,7 @@
 class Graph {
     constructor(numOfVertices){
         this.numOfVertices = numOfVertices;
-        this.AdjecentList = new Map() ;
+        this.AdjecentList = []
     }  
 
     //Methods

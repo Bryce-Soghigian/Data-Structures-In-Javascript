@@ -4,33 +4,49 @@ Apply on the first and try and get interviews
 D DAY === January 15th
 Google 
 Amz
-Uber
+Uber(Applied)
 Lyft
 Facebook
 
-# Dec 17th
-[] Another techincal Screening
-[] Second Round Toptal
 
-# Dec 10th
-[] Apply to ebay and track job app number
-[] GoodRX (talk about relocation)
-[] go through https://docs.google.com/document/d/1Y-gIrKAO8u6QY2hAjT7Xb5hHxKZuo2WuLkQhz4uuHs4/edit
+- Daily GOals
 [] 3 medium leetcode questions
 [] Apply to 5 random jobs 
-[] FOllow up on referals
+
+
+
+# Dec 17th - Primary Goal(GET INTERVIEWSSS)
+[] Get a techscreening
+[] remove part time from everything
+[] Pine.Systems
+- Start DS lib
+- Start Pine.shop
+[] Keep Learning Graphs
+[+] Send mike 3 linked in of peers
+[] Dec21 followup on ebay
+[] Another techincal Screening
+[] Fullstory Analytics
+[] Research Ways to Get techincal screenings and interviews
+[] Interviewing.io
+[] Change my location to the bay area
+# Dec 10th
+[+] Apply to ebay and track job app number
+- R0042096
+[+] GoodRX (talk about relocation)
+[+] go through https://docs.google.com/document/d/1Y-gIrKAO8u6QY2hAjT7Xb5hHxKZuo2WuLkQhz4uuHs4/edit
+
+[+] FOllow up on referals
 [] Graph related problems
-[] Find my weaknesses and build those up
+[+] Find my weaknesses and build those up
  [+] Seek out three weaknesses with the next 3 days
  -https://leetcode.com/explore/interview/card/bloomberg/
  Go through the different topics here
 [] Start recording me every leetcode problem
-[] Focus More on Dynamic Programing
-[] Check email for article
+[+] Focus More on Dynamic Programing
+[+] Check email for article
 [] Kth Element with quickselect
-https://discord.com/channels/763122609185226823/763122786896969729/785667364133011487
-- Top down(recursive)
-- Bottom Up(iterative)
+[+]- Top down(recursive)
+[+]- Bottom Up(iterative)
 
 
 
