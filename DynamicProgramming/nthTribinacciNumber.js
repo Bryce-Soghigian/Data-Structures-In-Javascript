@@ -1,6 +1,5 @@
 /**
- * @param {number} n
- * @return {number}
+Took a bottom up approach
  */
 var tribonacci = function(n) {
     if(n === 0) return 0

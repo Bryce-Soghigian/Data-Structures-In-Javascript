@@ -528,3 +528,8 @@ der to a travesal like a level by level traversal
 - Intuitive Takeaways:: bottomUp is good for a problem where you have some of the inital subproblem defined
 - What did I learn::
 
+
+# 12-16-2020
+## Problem List for today
+- https://leetcode.com/problems/clone-graph/
+- https://leetcode.com/problems/all-paths-from-source-to-target/

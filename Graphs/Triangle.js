@@ -9,29 +9,14 @@ var minimumTotal = function(triangle) {
     2a. find the summation of all paths
     2b. return the smallest sum in paths arr
     **/
-    class DirectedGraph{
+class DirectedGraph{
         constructor(){
-            this.adjecencyList = {};
-        }
-        dfsRecursive(start){
-            const result = [];
-            const visited = {};
-            const adjacencyList = this.adjacencyList;
-            (function dfs(vertex){
-              if (!vertex) return null;
-              visited[vertex] = true;
-              result.push(vertex);
-              adjacencyList[vertex].forEach(neighbor => {
-                  if (!visited[neighbor]) {
-                    return dfs(neighbor);
-                  }
-              })
-            })(start);
-            return result;
+            this.adjecencyList = [];
         }
 
+
         addVertex(vertex){
-            if(!this.adjecencyList[vertex]){
+            if(!this.adjecencyList.includes(vertex)){
                 this.adjecencyList[vertex] = []
             }
         }
@@ -55,22 +40,15 @@ var minimumTotal = function(triangle) {
         }
     }
     let triangleGraph = new DirectedGraph();
-    //Go through array and add the nodes and make the nodes relate
-    
-    
-    //use bottom up to add all the nodes and all of the edges
-    //Go though each array
-    /**
-    let cache = []
-    level one = [0,0]
-    level two = []
-    
-    
-    **/
-    for(let i = 0;i<triangle.length-1;i++){
+//===========Here we go through the graph and add nodes and edges to the graph=====
+    for(let i = 0;i<triangle.length;i++){
         for(let j = 0;j<triangle[i].length;j++){
-            console.log(i,j,triangleGraph.adjecencyList)
             let node = triangle[i][j]
+            if(i === triangle.length-1){//We are at the final level and don't need to add edges
+                if(!triangleGraph.adjecencyList[node]){
+                triangleGraph.addVertex(node)
+                }
+            }else{
             let leftEdge = triangle[i+1][j]
             let rightEdge = triangle[i+1][j+1]
           if(!triangleGraph.adjecencyList[node]){
@@ -81,11 +59,32 @@ var minimumTotal = function(triangle) {
             if(rightEdge !== undefined){
                 triangleGraph.addEdge(node,rightEdge)
             }
-          }
+          }   
+            }
+
         }
     }
-     console.log(triangleGraph.adjecencyList)   
+console.log(triangleGraph.adjecencyList)    //Now we want to write a depth first search and track the max dfs traversal
+DirectedGraph.prototype.bfs = function(start,adjList) {
+    const queue = [start];
+    const result = [];
+    const visited = {};
+    visited[start] = true;
+    let currentVertex;
+    while (queue.length) {
+      currentVertex = queue.shift();
+      result.push(currentVertex);
+      adjList[currentVertex].forEach(neighbor => {
+        if (!visited[neighbor]) {
+          visited[neighbor] = true;
+          queue.push(neighbor);
+        }
+      });
+    }
+    return result;
+}
+    console.log(triangleGraph.adjecencyList)
+    console.log(triangleGraph.bfs(triangleGraph.adjecencyList[0],triangleGraph.adjecencyList))
     
     };
 
-minimumTotal([[2],[3,4],[6,5,7],[4,1,8,3]])
