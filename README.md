@@ -549,6 +549,36 @@ der to a travesal like a level by level traversal
 -Difficulty::Easy
 - Duration:10 minutes
 - THis problem basically is you traverse every node in the the tree if you know its current depth you can just add that to the sum and return it
+
+
+# 12-19-2020
+
+# 334. Increasing Triplet Subsequence
+- Difficulty::Medium
+- Duration::41m28s82
+- Interview Question Type::Subsequence
+- What did I do well?:: Found good algorithms
+- What do I need to improve?::Understanding the question before implementation
+- Intuitive Takeaways::make sure to think about increasing negative inputs
+- What did I learn::
+
+# 392. Is Subsequence
+- Difficulty::Easy
+- Duration::4m44s93
+- Interview QuestionType::Subsequence
+- What did I do well?::Unerstood the question and implemented a quick solution
+- Intuitive Takeaways::Pointers are powerful make good use of them
+- What did I learn::
+
+
+# 792. Number of Matching Subsequences
+- Difficulty::Medium
+- Duration::5m11s37
+- Interview Question Type::Subsequence
+- What did I do well?:: THought of algo quick
+- What do I need to improve?::Optimization to binary search
+- Intuitive Takeaways::
+- What did I learn::applying bs to the problem
 ## Problem List for today
 - https://leetcode.com/problems/clone-graph/
 - https://leetcode.com/problems/all-paths-from-source-to-target/
