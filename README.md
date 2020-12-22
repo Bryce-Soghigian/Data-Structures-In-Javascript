@@ -579,6 +579,21 @@ der to a travesal like a level by level traversal
 - What do I need to improve?::Optimization to binary search
 - Intuitive Takeaways::
 - What did I learn::applying bs to the problem
+
+# 12-21-2020
+
+
+# 1480. Running Sum of 1d Array(Wrote in python)
+- Difficulty::Easy
+- Duration::4m15s12
+- Interview Question Type::Array?
+- What did I do well?::Wrote a solid algorithm
+
+# 1232. Check If It Is a Straight Line(Wrote in python)
+- Difficulty::Easy
+- Duration::7m
+- Interview Question Type::Math
+
 ## Problem List for today
 - https://leetcode.com/problems/clone-graph/
 - https://leetcode.com/problems/all-paths-from-source-to-target/
