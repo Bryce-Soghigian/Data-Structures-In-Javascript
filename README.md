@@ -1,3 +1,4 @@
+# Date I worked on problems
 # Format for reflection 
 - Difficulty::
 - Duration::
@@ -6,7 +7,7 @@
 - What do I need to improve?::
 - Intuitive Takeaways::
 - What did I learn::
-# Date I worked on problems
+
 
 
 ## Goals for duration
@@ -525,7 +526,7 @@ der to a travesal like a level by level traversal
 - Interview Question Type::Dynamic Programming
 - What did I do well?:: Wrote a solid bottomUp Solution
 - What do I need to improve?:: Did solid on this problem
-- Intuitive Takeaways:: bottomUp is good for a problem where you have some of the inital subproblem defined
+- Intuitive Takeaways:: bottomUp is good for a problem where you have some of the inital subproblem defined d
 - What did I learn::
 
 
@@ -544,6 +545,9 @@ der to a travesal like a level by level traversal
 - What do I need to improve?:: Bring my put and cache operations from o(n) to o(1)
 - Intuitive Takeaways::Keeping items in a specific order can help me solve problems more efficently
 - What did I learn::
+
+
+
 
 # Algoexpert SumOfDepths
 -Difficulty::Easy
@@ -593,6 +597,39 @@ der to a travesal like a level by level traversal
 - Difficulty::Easy
 - Duration::7m
 - Interview Question Type::Math
+
+
+
+# 208. Implement Trie (Prefix Tree)
+- Difficulty::Medium
+- Duration::Didn't record
+- Interview Question Type::Trie
+- What did I do well?::I throught up a good algorithm
+- What do I need to improve?::Thinking about time complexity as i write the code
+- Intuitive Takeaways::Children of a graph/tree can be stored in a javascript map and you can just use this.children.has(character) to see if the child is in the ds
+- What did I learn::About building a prefix tree
+
+
+# Date I worked on problems
+# 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+- Difficulty::Medium
+- Duration::Quick
+- Interview Question Type:: Tree /DFS
+- What did I do well?::Wrote a quick javascript solution
+- What do I need to improve?::My python implementation
+- Intuitive Takeaways::
+- What did I learn::
+
+# 1302. Deepest Leaves Sum
+- Difficulty::Medium
+- Duration::10m49s43
+- Interview Question Type:: Tree /DFS
+- What did I do well?::Need to make sure i understand the whole scope of the question
+- What do I need to improve?::My python implementation
+- Intuitive Takeaways::
+- What did I learn::
+
+
 
 ## Problem List for today
 - https://leetcode.com/problems/clone-graph/
