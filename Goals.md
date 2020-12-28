@@ -14,6 +14,25 @@ Facebook
 [] Apply to 5 random jobs 
 
 
+## Dec 24th GOals
+
+## System Design()
+- Data models
+- Understanding basic application architecture
+- Learn different roles of your architecture
+
+
+
+[+] Complete Two More Mock interviews
+[] Try and resolve each leetcode problem in a different way
+[] Make sure to spend a lot of time working and learning 
+[] Complete Level Two of Google foobar challenge
+[] Complete another interview on interviewing.io to unlock real company interviews
+[] Do tons of leetcode
+[] Add two more data structures to ds library
+[] FOr each leetcode problem implement each different solution
+[] Apply to 15 jobs
+
 
 # Dec 17th - Primary Goal(GET INTERVIEWSSS)
 [] Get a techscreening
@@ -21,14 +40,14 @@ Facebook
 [] Pine.Systems
 - Start DS lib
 - Start Pine.shop
-[] Keep Learning Graphs
+[+] Keep Learning Graphs
 [+] Send mike 3 linked in of peers
-[] Dec21 followup on ebay
+[+] Dec21 followup on ebay
 [] Another techincal Screening
 [] Fullstory Analytics
-[] Research Ways to Get techincal screenings and interviews
-[] Interviewing.io
-[] Change my location to the bay area
+[+] Research Ways to Get techincal screenings and interviews
+[+] Interviewing.io
+[+] Change my location to the bay area
 # Dec 10th
 [+] Apply to ebay and track job app number
 - R0042096

@@ -629,8 +629,30 @@ der to a travesal like a level by level traversal
 - Intuitive Takeaways::
 - What did I learn::
 
+# Interviewing io Take a matrix of mxn size and spiral it 
+- Difficulty Medium
+- Duration 25m
 
+# 12-27-2020
+
+# Word Search
+
+
+# 133 Clone A Graph
+# Format for reflection 
+- Difficulty::Medium
+- Duration::31m21s12
+- Interview Question Type:: Graphs bfs
+- What did I do well?::Understood the list
+- What do I need to improve?::Learn about more graph representations. I stuggled here bc i needed more knoweldge of the list type
+- Intuitive Takeaways::
+- What did I learn:: Graph traversal
+
+# 138. Copy List with Random Pointer
+- Difficulty::Medium
+- Duration::26m12s53
+- Interview Question Type:: Linked List/ Copy ds
 
 ## Problem List for today
-- https://leetcode.com/problems/clone-graph/
+
 - https://leetcode.com/problems/all-paths-from-source-to-target/
