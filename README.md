@@ -1,3 +1,4 @@
+# Date I worked on problems
 # Format for reflection 
 - Difficulty::
 - Duration::
@@ -6,7 +7,7 @@
 - What do I need to improve?::
 - Intuitive Takeaways::
 - What did I learn::
-# Date I worked on problems
+
 
 
 ## Goals for duration
@@ -525,7 +526,7 @@ der to a travesal like a level by level traversal
 - Interview Question Type::Dynamic Programming
 - What did I do well?:: Wrote a solid bottomUp Solution
 - What do I need to improve?:: Did solid on this problem
-- Intuitive Takeaways:: bottomUp is good for a problem where you have some of the inital subproblem defined
+- Intuitive Takeaways:: bottomUp is good for a problem where you have some of the inital subproblem defined d
 - What did I learn::
 
 
@@ -544,6 +545,9 @@ der to a travesal like a level by level traversal
 - What do I need to improve?:: Bring my put and cache operations from o(n) to o(1)
 - Intuitive Takeaways::Keeping items in a specific order can help me solve problems more efficently
 - What did I learn::
+
+
+
 
 # Algoexpert SumOfDepths
 -Difficulty::Easy
@@ -579,6 +583,76 @@ der to a travesal like a level by level traversal
 - What do I need to improve?::Optimization to binary search
 - Intuitive Takeaways::
 - What did I learn::applying bs to the problem
+
+# 12-21-2020
+
+
+# 1480. Running Sum of 1d Array(Wrote in python)
+- Difficulty::Easy
+- Duration::4m15s12
+- Interview Question Type::Array?
+- What did I do well?::Wrote a solid algorithm
+
+# 1232. Check If It Is a Straight Line(Wrote in python)
+- Difficulty::Easy
+- Duration::7m
+- Interview Question Type::Math
+
+
+
+# 208. Implement Trie (Prefix Tree)
+- Difficulty::Medium
+- Duration::Didn't record
+- Interview Question Type::Trie
+- What did I do well?::I throught up a good algorithm
+- What do I need to improve?::Thinking about time complexity as i write the code
+- Intuitive Takeaways::Children of a graph/tree can be stored in a javascript map and you can just use this.children.has(character) to see if the child is in the ds
+- What did I learn::About building a prefix tree
+
+
+# Date I worked on problems
+# 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+- Difficulty::Medium
+- Duration::Quick
+- Interview Question Type:: Tree /DFS
+- What did I do well?::Wrote a quick javascript solution
+- What do I need to improve?::My python implementation
+- Intuitive Takeaways::
+- What did I learn::
+
+# 1302. Deepest Leaves Sum
+- Difficulty::Medium
+- Duration::10m49s43
+- Interview Question Type:: Tree /DFS
+- What did I do well?::Need to make sure i understand the whole scope of the question
+- What do I need to improve?::My python implementation
+- Intuitive Takeaways::
+- What did I learn::
+
+# Interviewing io Take a matrix of mxn size and spiral it 
+- Difficulty Medium
+- Duration 25m
+
+# 12-27-2020
+
+# Word Search
+
+
+# 133 Clone A Graph
+# Format for reflection 
+- Difficulty::Medium
+- Duration::31m21s12
+- Interview Question Type:: Graphs bfs
+- What did I do well?::Understood the list
+- What do I need to improve?::Learn about more graph representations. I stuggled here bc i needed more knoweldge of the list type
+- Intuitive Takeaways::
+- What did I learn:: Graph traversal
+
+# 138. Copy List with Random Pointer
+- Difficulty::Medium
+- Duration::26m12s53
+- Interview Question Type:: Linked List/ Copy ds
+
 ## Problem List for today
-- https://leetcode.com/problems/clone-graph/
+
 - https://leetcode.com/problems/all-paths-from-source-to-target/

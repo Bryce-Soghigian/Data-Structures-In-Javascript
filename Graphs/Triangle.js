@@ -8,15 +8,26 @@ var minimumTotal = function(triangle) {
     2. Traverse all of our paths in the graph
     2a. find the summation of all paths
     2b. return the smallest sum in paths arr
+    {
+        0:[1,2,3]
+        3:[0,1]
+    }
+node{
+    weight:23
+    data: nodeVal
+    next: pointer
+}
+3
+3 [] -> [] ->
     **/
 class DirectedGraph{
         constructor(){
-            this.adjecencyList = [];
+            this.adjecencyList = {};
         }
 
 
         addVertex(vertex){
-            if(!this.adjecencyList.includes(vertex)){
+            if(!this.adjecencyList[vetrex]){
                 this.adjecencyList[vertex] = []
             }
         }
