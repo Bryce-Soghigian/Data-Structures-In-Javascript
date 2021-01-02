@@ -653,6 +653,25 @@ der to a travesal like a level by level traversal
 - Duration::26m12s53
 - Interview Question Type:: Linked List/ Copy ds
 
-## Problem List for today
 
-- https://leetcode.com/problems/all-paths-from-source-to-target/
+# 12-28-2020
+
+# 1528. Shuffle String
+- Difficulty::Easy
+- Duration::2m5s12
+- Interview Question Type:: String
+- What did I do well?:: Understood the question
+
+
+# 876. Middle of the Linked List
+
+
+
+# 116. Populating Next Right Pointers in Each Node
+# Bloomberg Mock Online Assesment(passed)(on leetcode)
+# Bloomberg Mock Phone Interview(passed)(on leetcode)
+# Uber Mock Online Assesment(passed)(on leetcode)
+
+## Problems to tackle tommorrow
+https://leetcode.com/problems/is-graph-bipartite/
+https://leetcode.com/problems/determine-if-two-strings-are-close/
