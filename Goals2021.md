@@ -35,6 +35,16 @@
 #### Approach Two
 
 ## JANUARY FIRST
+
+
+
+## Solved
+- 21. Merge Two Sorted Lists [Easy]
+- 2. Add Two Numbers [Medium]
+- Google foobar Challenge[Medium-Hard]
+- 71. Simplify Path [Medium]
+- 270. Closest Binary Search Tree Value[Easy]
+
 ###  2. Add Two Numbers
 #### Elementary Math(Only approach)
 - Basically you do walk through the ll and add node 1 and node two like you would with real numbers. But sinces its reversed you do left to right not right ot left
@@ -45,10 +55,38 @@
 #### Iterative Where you walk through both lists and then sort those values after sorting you create a new list of all those values in the order you sorted
 #### Recursively merge lists and place nodes in their place(BETTER SOLUTION)
 
+### Google foobar Challenge
+#### Nested loops to check how many employees cross
 
 
+### 71. Simplify Path
+#### basic filter where you go through and filter out each cat that doesn't belong in our string
+#### Using a stack
 
 
+### 270. Closest Binary Search Tree Value
+#### GO through and calculate the min diff and the closest val for each node and return the value that is closest
+
+## January Second
+## Solved
+- Google Foobar Level 3 problem a[hard]
+- 503. Next Greater Element II[medium]
+- 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree[medium]
+- 266. Palindrome Permutation[easy]
+
+## January Third
+## Solved 
+- 31. Next Permutation
+
+### Google Foobar Bomb Baby
+### 503. Next Greater Element II
+#### double the array and for each element in nums check for the next greater element in that double
+#### Stack solution is o(n)
+
+
+### 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+#### Approach one is basic BFS
+#### Approach Two is a DFS
 # Jan 8th to Jan 15th
 ## PROJECT WORK
 - Plan out all backend endpoints and tables for pines social routes

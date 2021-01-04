@@ -14,23 +14,10 @@
  */
 var connect = function(root) {
     if(root === null) return root
-    /**
-Approach 1. BFS where we go from left to right and 
-We wanna check to see if the current node in our bfs is a last node
-
-1. Check to see if last node
-WHat exactly is a last node 2
-
-if lastNode === true:
-    curr.next = null
-else:
-    curr.next = queue.pop()
-    **/
     const queue = [];
     let count = 0
     let x = 1
     queue.unshift(root)
-    
     while(queue.length !== 0){
         let curr = queue.pop()
         count++
