@@ -74,9 +74,6 @@
 - 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree[medium]
 - 266. Palindrome Permutation[easy]
 
-## January Third
-## Solved 
-- 31. Next Permutation
 
 ### Google Foobar Bomb Baby
 ### 503. Next Greater Element II
@@ -87,6 +84,29 @@
 ### 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 #### Approach one is basic BFS
 #### Approach Two is a DFS
+
+
+## January Third
+## Solved 
+- 31. Next Permutation[Medium]
+- 46. Permutations[Medium]
+
+## January Fourth 
+
+## Solved
+- 953. Verifying an Alien Dictionary[Easy]
+- 114. Flatten Binary Tree to Linked List[Medium]
+- 1119. Remove Vowels from a String[Easy]
+- 325. Maximum Size Subarray Sum Equals k[Medium]
+- 430. Flatten a Multilevel Doubly Linked List[Medium]
+
+
+## Solved January Sixth
+- 268. Missing Number[Easy][Mock]
+- 38. Count and Say[Easy][Mock]
+- 1539. Kth Missing Positive Number[Easy]
+- 94. Binary Tree Inorder Traversal[Medium][Iterative Traversal]
+
 # Jan 8th to Jan 15th
 ## PROJECT WORK
 - Plan out all backend endpoints and tables for pines social routes
