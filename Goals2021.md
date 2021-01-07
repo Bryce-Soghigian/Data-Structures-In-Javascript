@@ -106,7 +106,11 @@
 - 38. Count and Say[Easy][Mock]
 - 1539. Kth Missing Positive Number[Easy]
 - 94. Binary Tree Inorder Traversal[Medium][Iterative Traversal]
+- 285. Inorder Successor in BST[Medium]
+-73. Set Matrix Zeroes[Medium]
 
+## Solved January Seventh
+- 75. Sort Colors[Medium]
 # Jan 8th to Jan 15th
 ## PROJECT WORK
 - Plan out all backend endpoints and tables for pines social routes

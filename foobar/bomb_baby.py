@@ -6,7 +6,7 @@ def solution(x, y):
         if(x%2== 0 and y % 2 == 0) or x < 1 or y < 1:
             return "impossible"
         if(x > y):
-            print(x %= y)
+            print(x)
             generations += x/y
             x %= y
         else:

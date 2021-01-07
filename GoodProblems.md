@@ -5,7 +5,8 @@
 ## Dynamic Programming 
 https://leetcode.com/problems/house-robber/
 https://leetcode.com/problems/fibonacci-number/
-https://leetcode.com/problems/n-th-tribonacci-number/submissions/
+n-th-tribonacci-number/submissions/
+https://leetcode.com/problems/coin-change/
 
 ## Greedy Algorithms 
 
