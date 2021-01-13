@@ -35,37 +35,12 @@
 #### Approach Two
 
 ## JANUARY FIRST
-
-
-
 ## Solved
 - 21. Merge Two Sorted Lists [Easy]
 - 2. Add Two Numbers [Medium]
 - Google foobar Challenge[Medium-Hard]
 - 71. Simplify Path [Medium]
 - 270. Closest Binary Search Tree Value[Easy]
-
-###  2. Add Two Numbers
-#### Elementary Math(Only approach)
-- Basically you do walk through the ll and add node 1 and node two like you would with real numbers. But sinces its reversed you do left to right not right ot left
-
-
-
-### 21. Merge Two Sorted Lists
-#### Iterative Where you walk through both lists and then sort those values after sorting you create a new list of all those values in the order you sorted
-#### Recursively merge lists and place nodes in their place(BETTER SOLUTION)
-
-### Google foobar Challenge
-#### Nested loops to check how many employees cross
-
-
-### 71. Simplify Path
-#### basic filter where you go through and filter out each cat that doesn't belong in our string
-#### Using a stack
-
-
-### 270. Closest Binary Search Tree Value
-#### GO through and calculate the min diff and the closest val for each node and return the value that is closest
 
 ## January Second
 ## Solved
@@ -74,24 +49,12 @@
 - 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree[medium]
 - 266. Palindrome Permutation[easy]
 
-
-### Google Foobar Bomb Baby
-### 503. Next Greater Element II
-#### double the array and for each element in nums check for the next greater element in that double
-#### Stack solution is o(n)
-
-
-### 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
-#### Approach one is basic BFS
-#### Approach Two is a DFS
-
-
-## January Third
+# January Third
 ## Solved 
 - 31. Next Permutation[Medium]
 - 46. Permutations[Medium]
 
-## January Fourth 
+# January Fourth 
 
 ## Solved
 - 953. Verifying an Alien Dictionary[Easy]
@@ -100,32 +63,41 @@
 - 325. Maximum Size Subarray Sum Equals k[Medium]
 - 430. Flatten a Multilevel Doubly Linked List[Medium]
 
-
-## Solved January Sixth
+# January Sixth
+## Solved 
 - 268. Missing Number[Easy][Mock]
 - 38. Count and Say[Easy][Mock]
 - 1539. Kth Missing Positive Number[Easy]
 - 94. Binary Tree Inorder Traversal[Medium][Iterative Traversal]
 - 285. Inorder Successor in BST[Medium]
 -73. Set Matrix Zeroes[Medium]
-
-## Solved January Seventh
+# January Seventh
+## Solved 
 - 75. Sort Colors[Medium]
+- 797. All Paths From Source to Target[Medium]
+- 716. Max Stack[Easy]
 # Jan 8th to Jan 15th
-## PROJECT WORK
-- Plan out all backend endpoints and tables for pines social routes
+### GOALS
+- Make more progress on pine
+- Learn dikstras shortest path algo
+- heaped bfs with relaxiation
+- Solve one more problem from google foobar
+- When building out the next api make tdd a priority
+ # January 9th
+ ## Solved
+ - 222. Count Complete Tree Nodes[Medium]
+- 958. Check Completeness of a Binary Tree[Medium]
 
-## JOB SEARCH
-### Urls Of 25 Jobs I applied to
-#### (1)(Some url)
+# January 11th
+## Solved 
+- 1570. Dot Product of Two Sparse Vectors
 
-
-## STUDYING
-## List of Completed Problems(28-56)
-### Problem
-#### Approach One
-#### Approach Two
-
+# January 12th 
+## Solved
+- 1. Two Sum[Easy]
+- Three Sum(Read)[Medium]
+- Four Sum(Read)[Medium]
+- 1662. Check If Two String Arrays are Equivalent[Easy]
 
 # Jan 16th to Jan 22th
 ## PROJECT WORK
