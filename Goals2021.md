@@ -99,20 +99,38 @@
 - Four Sum(Read)[Medium]
 - 1662. Check If Two String Arrays are Equivalent[Easy]
 
+# JANUARY 13th
+## Solved
+- 221. Maximal Square[Medium]
+- 139. Word Break[Medium]
+- 1506. Find Root of N-Ary Tree[Medium]
+- 645. Set Mismatch[Easy]
+- 287. Find the Duplicate Number[Medium]
+-1472. Design Browser History[Medium]
+
+
+# Jan 15th
+## Solved
+- 91. Decode Ways[Medium]
+-41. First Missing Positive[Hard]
+- Climbing Stairs[Easy]
+-322. Coin Change[Medium]
+
 # Jan 16th to Jan 22th
+- Apply to 100 jobs
+- Leetcode more
+- Do research on bloomberg
+- Update Profile pic on all platforms
+- Update acheivements on angellist
+- DO mock bloomberg interviews leetcode
+- Do 1 mock interview
+- Wire frames for fe (Pine)
 ## PROJECT WORK
 - Plan out Frontend Features for shop route and orders route
+# Jan 18th 
+## Solved
+- 1197. Minimum Knight Moves
 
-## JOB SEARCH
-### Urls Of 25 Jobs I applied to
-#### (1)(Some url)
-
-
-## STUDYING
-## List of Completed Problems(56-84)
-### Problem
-#### Approach One
-#### Approach Two
 
 # Jan 22th to Jan 29th
 ## PROJECT WORK
