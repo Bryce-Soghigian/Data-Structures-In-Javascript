@@ -129,8 +129,19 @@
 - Plan out Frontend Features for shop route and orders route
 # Jan 18th 
 ## Solved
-- 1197. Minimum Knight Moves
+- 1197. Minimum Knight Moves[Medium]
+- 1019. Next Greater Node In Linked List[Medium]
+- 117. Populating Next Right Pointers in Each Node II(Mock)[Medium]
+- 239. Sliding Window Maximum(Mock)[Hard]
+- 69. Sqrt(x)(Mock)[Easy]
 
+# Jan 19th 
+## Solved
+- 4. Median of Two Sorted Arrays[Medium]
+- 695. Max Area of Island[Medium]
+- 379. Design Phone Directory[Medium]
+- 137. Single Number II[Medium]
+- 260. Single Number III[Medium]
 
 # Jan 22th to Jan 29th
 ## PROJECT WORK
