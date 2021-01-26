@@ -117,14 +117,14 @@
 -322. Coin Change[Medium]
 
 # Jan 16th to Jan 22th
-- Apply to 100 jobs
-- Leetcode more
-- Do research on bloomberg
-- Update Profile pic on all platforms
-- Update acheivements on angellist
-- DO mock bloomberg interviews leetcode
-- Do 1 mock interview
-- Wire frames for fe (Pine)
+- Apply to 100 jobs[Y]
+- Leetcode more[Y]
+- Do research on bloomberg[Y]
+- Update Profile pic on all platforms[N]
+- Update acheivements on angellist[Y]
+- DO mock bloomberg interviews leetcode[Y]
+- Do 1 mock interview[Y]
+- Wire frames for fe (Pine)[N]
 ## PROJECT WORK
 - Plan out Frontend Features for shop route and orders route
 # Jan 18th 
@@ -143,6 +143,26 @@
 - 137. Single Number II[Medium]
 - 260. Single Number III[Medium]
 
+
+# Jan 20th
+## Solved 
+- 1185. Day of the Week[Easy][Mock]
+- 232. Implement Queue using Stacks[Easy][Mock]
+- LRU CACHE
+- 1486. XOR Operation in an Array[Easy]
+- Breadth First Search Algoexpert[Medium]
+- Subarray Sort Algoexpert[Hard]
+- 1634. Add Two Polynomials Represented as Linked Lists[Medium]
+- 1673. Find the Most Competitive Subsequence[Medium]
+
+# Jan 21th 
+## Solved
+- 81. Search in Rotated Sorted Array II[Medium]
+- 153. Find Minimum in Rotated Sorted Array[Medium]
+- 154. Find Minimum in Rotated Sorted Array II[Hard]
+- 141. Linked List Cycle[Easy]
+- 142. Linked List Cycle II[Medium]
+- 240. Search a 2D Matrix II[Medium]
 # Jan 22th to Jan 29th
 ## PROJECT WORK
 - Finish Planning on pine backend and wrap up other lose ends in the project
