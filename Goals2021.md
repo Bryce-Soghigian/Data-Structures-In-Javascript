@@ -163,19 +163,24 @@
 - 141. Linked List Cycle[Easy]
 - 142. Linked List Cycle II[Medium]
 - 240. Search a 2D Matrix II[Medium]
-# Jan 22th to Jan 29th
-## PROJECT WORK
-- Finish Planning on pine backend and wrap up other lose ends in the project
-
-## JOB SEARCH
-### Urls Of 25 Jobs I applied to
-#### (1)(Some url)
+- 380. Insert Delete GetRandom O(1)[Medium]
 
 
-## STUDYING
-## List of Completed Problems(84-120)
-### Problem
-#### Approach One
-#### Approach Two
+# JAN 24th
+## SOlved (9 Problems)
+- 1437. Check If All 1's Are at Least Length K Places Away[Easy](Mock)
+- 338. Counting Bits[Medium]
+- 19. Remove Nth Node From End of List[Medium]
+- 3. Longest Substring Without Repeating Characters[Medium]
+- 159. Longest Substring with At Most Two Distinct Characters[Medium]
+- 340. Longest Substring with At Most K Distinct Characters[Medium]
+- 485. Max Consecutive Ones [Easy]
+- 487. Max Consecutive Ones II[Medium]
+- 1004. Max Consecutive Ones III[Medium]
 
-# Jan 29th - Jan 31st(BREAK)
+### MEETING WITH MIKE
+- Build out a leetcode schedule which goes over all the topics of problems and uses spaced repetition to learn all of them
+- Also talk about targetCompanies.md and my plans to get referals to all of them
+- Talk about animedoro vs pomodoro for productivity 
+- Make flashcards for 100 leetcode problems where i describe the problem and have to guess the problem catagory
+- Make flashcards for sets maps and other javascript datastructures
