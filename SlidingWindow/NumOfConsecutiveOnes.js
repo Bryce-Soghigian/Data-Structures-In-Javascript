@@ -21,3 +21,6 @@ var findMaxConsecutiveOnes = function(nums) {
     }
     return globalMax
 };
+//SOlved in 3 minutes and 4 seconds
+// O(nums.length) time
+// o(1) space

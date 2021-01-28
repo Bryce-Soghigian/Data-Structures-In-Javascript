@@ -166,7 +166,7 @@
 - 380. Insert Delete GetRandom O(1)[Medium]
 
 
-# JAN 24th
+# JAN 25th
 ## SOlved (9 Problems)
 - 1437. Check If All 1's Are at Least Length K Places Away[Easy](Mock)
 - 338. Counting Bits[Medium]
@@ -178,8 +178,28 @@
 - 487. Max Consecutive Ones II[Medium]
 - 1004. Max Consecutive Ones III[Medium]
 
+
+# Jan 26th 
+- 424. Longest Repeating Character Replacement[Medium]
+- 35. Search Insert Position[Easy][Mock]
+- 547. Number of Provinces[Medium][Mock]
+- 1100. Find K-Length Substrings With No Repeated Characters[Medium]
+- 480. Sliding Window Median[Hard]
+- 713. Subarray Product Less Than K[Medium]
+- 152. Maximum Product Subarray[Medium]
+
+
+# Jan 27th
+## Solved 
+- 303. Range Sum Query - Immutable[Easy]
+- 763. Partition Labels[Medium]
+- 162. Find Peak Element[Medium]
 ### MEETING WITH MIKE
+
+
 - Build out a leetcode schedule which goes over all the topics of problems and uses spaced repetition to learn all of them
+- Ask mike if we can do mocks on the topics I learned each week
+- Ask how to make side money so maybe i could quit my job and just code while prepping for big jobs
 - Also talk about targetCompanies.md and my plans to get referals to all of them
 - Talk about animedoro vs pomodoro for productivity 
 - Make flashcards for 100 leetcode problems where i describe the problem and have to guess the problem catagory

@@ -1,6 +1,6 @@
 # Target Companies and status
-- 1.Google[Referral]
-- 2.Bloomberg[Referral]
+- Google[Referral]
+- 2.Bloomberg[]
 - 3.Microsoft[Referral]
 - Airbnb[Searching]
 - Uber[Searching]
