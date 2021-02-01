@@ -205,6 +205,15 @@
 - 109. Convert Sorted List to Binary Search Tree[Medium]
 - 48. Rotate Image[Medium]
 - 531. Lonely Pixel I[Medium]
+- 395. Longest Substring with At Least K Repeating Characters[Medium]
+
+
+
+# Jan 29th
+- 771. Jewels and Stones[Easy]
+- 1143. Longest Common Subsequence[Medium]
+- 516. Longest Palindromic Subsequence[Medium]
+5. Longest Palindromic Substring[Medium]
 ### MEETING WITH MIKE
 - 
 - Fix up readmes of all my pinned readmes
