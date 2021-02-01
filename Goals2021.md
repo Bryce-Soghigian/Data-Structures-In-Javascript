@@ -192,15 +192,49 @@
 # Jan 27th
 ## Solved 
 - 303. Range Sum Query - Immutable[Easy]
+- 167. Two Sum II - Input array is sorted[Binary Search Easy]
 - 763. Partition Labels[Medium]
 - 162. Find Peak Element[Medium]
+- 148. Sort List[Medium]
+- 1265. Print Immutable Linked List in Reverse[Medium]
+
+
+# Jan 28th
+- 1275. Find Winner on a Tic Tac Toe Game[Easy]
+- 108. Convert Sorted Array to Binary Search Tree [Easy]
+- 109. Convert Sorted List to Binary Search Tree[Medium]
+- 48. Rotate Image[Medium]
+- 531. Lonely Pixel I[Medium]
+- 395. Longest Substring with At Least K Repeating Characters[Medium]
+
+
+
+# Jan 29th
+- 771. Jewels and Stones[Easy]
+- 1143. Longest Common Subsequence[Medium]
+- 516. Longest Palindromic Subsequence[Medium]
+5. Longest Palindromic Substring[Medium]
 ### MEETING WITH MIKE
-
-
+- 
+- Fix up readmes of all my pinned readmes
 - Build out a leetcode schedule which goes over all the topics of problems and uses spaced repetition to learn all of them
 - Ask mike if we can do mocks on the topics I learned each week
-- Ask how to make side money so maybe i could quit my job and just code while prepping for big jobs
 - Also talk about targetCompanies.md and my plans to get referals to all of them
-- Talk about animedoro vs pomodoro for productivity 
-- Make flashcards for 100 leetcode problems where i describe the problem and have to guess the problem catagory
 - Make flashcards for sets maps and other javascript datastructures
+
+problem catagories confedienceRating
+
+### OBJ
+Group the leetcodes into groups
+- apply to microsoft
+
+Array Strings
+Two Pointers SlidingWIndow
+
+
+# Goals 
+- Schedule Microssoft interview
+- Prepare bloomberg application
+- 45 minutes of stumped and w go it
+- Make list of problems and schedule that
+- Finish Finanacial applicaytion
