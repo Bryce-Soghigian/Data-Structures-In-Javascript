@@ -214,14 +214,11 @@
 - 1143. Longest Common Subsequence[Medium]
 - 516. Longest Palindromic Subsequence[Medium]
 5. Longest Palindromic Substring[Medium]
+# Jan 31st
+- 1469. Find All The Lonely Nodes[Easy]
+- 149. Max Points on a Line[Hard]
+- 378. Kth Smallest Element in a Sorted Matrix[Medium]
 ### MEETING WITH MIKE
-- 
-- Fix up readmes of all my pinned readmes
-- Build out a leetcode schedule which goes over all the topics of problems and uses spaced repetition to learn all of them
-- Ask mike if we can do mocks on the topics I learned each week
-- Also talk about targetCompanies.md and my plans to get referals to all of them
-- Make flashcards for sets maps and other javascript datastructures
-
 problem catagories confedienceRating
 
 ### OBJ
