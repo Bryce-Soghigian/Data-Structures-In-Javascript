@@ -142,3 +142,34 @@
 - jamesgoodnight44@gmail.com
 105
 118
+
+
+
+# Date I worked on problems
+
+# Problems
+- 2d vector iterator [medium]
+- anagrams[easy](daily problem)
+- bst to greater tree[medium]
+# 2d Vector
+- Difficulty:: Medium
+- Duration:: 30m
+- Interview Question Type:: Class/ Design Question 
+- Approaches:: One is the copy approach that i actually took.But the better approach would be one where I just use two pointers
+- What did I do well?:: Breaking down the problem into small steps that were easy to implement
+- What do I need to improve?:: Time Complexity analysis, Spend more time searching for an optimal algo before writing any code, write better syntactical code. Talk more about the rules of my class
+- Intuitive Takeaways:: Try and think about if its possible to solve the problem with o(1) space and o(n x m ) time
+- RESEARCH:: Iterator Convention, javascript class advanced usage.
+
+
+
+
+
+# Feb 13th
+# Algoexpert Search In sorted matrix
+- Difficulty::Medium
+- Duration::10m
+- Interview Question Type:: Binary Search
+- What did I do well?:: Identified a search method
+- What do I need to improve?:: understanding of binary search
+- Intuitive Takeaways:: You want to adjust based on  the middle value
