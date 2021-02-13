@@ -173,3 +173,11 @@
 - What did I do well?:: Identified a search method
 - What do I need to improve?:: understanding of binary search
 - Intuitive Takeaways:: You want to adjust based on  the middle value
+
+
+# Algoexpert remove duplicates from linked list
+- Difficulty:: Easy
+- Duration::12:06
+- Interview Question Type::Linked list/ duplicates
+- What did I do well?:: Identified edge cases
+- What do I need to improve?:: Use of the ?. operator
