@@ -166,6 +166,10 @@
 
 
 # Feb 13th
+## Solved 
+- Algoexpert Search In sorted matrix[medium][Binary Search]
+- Algoexpert remove duplicates from linked list[Easy]
+- Algoexpert Find Cycle[hard][Slow and Fast Pointers]
 # Algoexpert Search In sorted matrix
 - Difficulty::Medium
 - Duration::10m
@@ -181,3 +185,18 @@
 - Interview Question Type::Linked list/ duplicates
 - What did I do well?:: Identified edge cases
 - What do I need to improve?:: Use of the ?. operator
+
+
+# Algoexpert find Loop
+- Difficulty::Hard
+- Duration::6m 36s
+- Interview Question Type:: slow and fast pointers
+
+
+
+
+# Thursday March 11th
+
+## Solved 
+- 1695. Maximum Erasure Value[Medium]
+- 3. Longest Substring Without Repeating Characters[Medium]
