@@ -200,3 +200,10 @@
 ## Solved 
 - 1695. Maximum Erasure Value[Medium]
 - 3. Longest Substring Without Repeating Characters[Medium]
+- Convert Sorted Array to Binary Search Tree
+
+# Friday March 12th
+
+
+## Solved 
+- 1315. Sum of Nodes with Even-Valued Grandparent
